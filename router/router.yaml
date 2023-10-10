@@ -11,10 +11,11 @@ sandbox:
 homepage:
   enabled: false
 
+# Operation Limits
 limits:
-  max-depth: 5
-  max-height: 10
-  max-aliases: 3
+  max_depth: 5
+  max_height: 10
+  max_aliases: 3
   
 
 cors:
