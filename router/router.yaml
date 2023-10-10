@@ -49,3 +49,9 @@ authorization:
   preview_directives: 
     enabled: true
 
+coprocessor:
+  url: https://coprocessor-wn3vwa6nlq-ue.a.run.app 
+  timeout: 2s 
+  router:
+    response:
+      body: true
